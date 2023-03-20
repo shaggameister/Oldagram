@@ -64,7 +64,13 @@ header {
     margin: 15px 0 15px 15px;
 }
 
+.icon:hover,
+.icon:focus {
+    opacity: 50%;
+}
+
 /* typography */
+
 p {
     margin: 0 0 0 13px;
     font-size: 13px;
