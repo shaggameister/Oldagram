@@ -1,90 +1,90 @@
 body {
-    margin: 20px auto;
-    padding: 0;
-    width: 375px;
-    font-family: 'Source Sans Pro', sans-serif;
-    background: #ededed;
+  margin: 20px auto;
+  padding: 0;
+  width: 375px;
+  font-family: "Source Sans Pro", sans-serif;
+  background: #ededed;
 }
 
 .container {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 header {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .container,
 header {
-    background: #fff;
+  background: #fff;
 }
 
 .section-header {
-    display: flex;
-    border-top: 1px solid #C6C6C6;
+  display: flex;
+  border-top: 1px solid #c6c6c6;
 }
 
 .section-footer {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 /* images */
 
 .logo {
-    width: 127px;
-    margin: 0 16px;
+  width: 127px;
+  margin: 0 16px;
 }
 
 .user {
-    margin: 16px;
+  margin: 16px;
 }
 
 .user,
-.avatar{
-    width: 34px;
-    height: 34px;
-    border-radius: 50%;
+.avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
 }
 
 .avatar {
-    margin: 10px 0 10px 10px;
+  margin: 10px 0 10px 10px;
 }
 
 .portrait {
-    width: 375px;
+  width: 375px;
 }
 
 .icon {
-    width: 24px;
-    margin: 15px 0 15px 15px;
+  width: 24px;
+  margin: 15px 0 15px 15px;
 }
 
 .icon:hover,
 .icon:focus {
-    opacity: 50%;
+  opacity: 50%;
 }
 
 /* typography */
 
 p {
-    margin: 0 0 0 13px;
-    font-size: 13px;
-    font-weight: 400;
+  margin: 0 0 0 13px;
+  font-size: 13px;
+  font-weight: 400;
 }
 
 .name,
 span {
-    margin: 11px 0 0 13px;
-    font-weight: 700;
+  margin: 11px 0 0 13px;
+  font-weight: 700;
 }
 
 .likes {
-    padding-bottom: 8px;
+  padding-bottom: 8px;
 }
 
 .user-id {
-    width: 350px;
-    padding-bottom: 16px;
-    margin-left: 15px;
+  width: 350px;
+  padding-bottom: 16px;
+  margin-left: 15px;
 }
